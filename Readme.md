@@ -31,36 +31,6 @@ _Remote_
 
 ---
 
-## 🛠️ Projects
-
-### 🌍 International Conference Website  
-> [Repo](https://github.com/sanjana19889/International-Confrence-Website) | [Live Site](https://international-confrence-website-p9o.vercel.app/)
-
-- 📈 Achieved 97% Lighthouse performance
-- 🌐 Integrated maps API for real-time updates
-- 🚀 Used lazy loading & code-splitting → 40% faster initial load
-- 👥 Served 5,000+ unique users over a 3-day event
-
----
-
-### 💼 Portfolio Website  
-> [Repo](https://github.com/sanjana19889/PORTFOLIO) | [Live Demo](https://sanjana-portfolio-iota.vercel.app/)
-
-- 🧱 Built with **React + Material UI**
-- 🎨 Styled using Tailwind CSS for sleek transitions
-- 🚀 Deployed on Vercel for zero-downtime updates
-
----
-
-### 🌌 Stellar – Astronomy Club Website  
-> [Repo](https://github.com/sanjana19889/Stellar-Astronomy-Club) | [Live Demo](https://stellar-astronomy-club.vercel.app/)
-
-- 🔀 Used Next.js with client-side routing for smooth navigation
-- ⚛️ Leveraged `useEffect` for dynamic data handling
-- ✨ Integrated performant animations for an engaging experience
-
----
-
 ## 🏆 Achievements & Responsibilities
 
 - 👩‍💼 **Student Coordinator (TPC):** Leading campus placements & recruitment drives  
